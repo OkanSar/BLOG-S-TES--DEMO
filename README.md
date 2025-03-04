@@ -1,5 +1,7 @@
 # BLOG-DEMO | Okan Sarıoğlu Blog Sitesi ASP.NET 8.0
--- Projenin kodları en kısa sürede GİT LFT ile yüklenmiş olucaktır.
+(İçerisine hazır temalar eklendiği için büyük çoğunluğu html gözükmekte ancak proje de C# Javascript jQuery en çok kullanılanlar)
+
+
 
 Giriş - Çıkış İşlemleri IDENTITY ile 
 ![Ekran görüntüsü 2025-02-25 005836](https://github.com/user-attachments/assets/abf6d538-1801-4df0-8c09-21a4d0559dd8)
@@ -38,6 +40,7 @@ Kategorilerin İşlemleri
 ![Ekran görüntüsü 2025-02-25 010242](https://github.com/user-attachments/assets/5775858d-46f9-41d9-b3a4-445438f04a85)
 
 Projeye her ne kadar okuldan dolayı fazla vakit ayıramamış olsam da bütün proje toplam 1.5 ay sürmüş bulunmakta. 1 aydan kısa sürede bitebilirdi.
+
 
 
 
