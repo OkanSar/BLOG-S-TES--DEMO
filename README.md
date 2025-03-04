@@ -1,7 +1,7 @@
 # BLOG-DEMO | Okan Sarıoğlu Blog Sitesi ASP.NET 8.0
 (İçerisine hazır temalar eklendiği için büyük çoğunluğu html gözükmekte ancak proje de C# Javascript jQuery en çok kullanılanlar)
 
-
+BlogDemo/BlogDemo/Areas/Admin/ViewComponents/Statistic/Statistic1.cs de kendi API nizi eklemeniz gerekmektedir.
 
 Giriş - Çıkış İşlemleri IDENTITY ile 
 ![Ekran görüntüsü 2025-02-25 005836](https://github.com/user-attachments/assets/abf6d538-1801-4df0-8c09-21a4d0559dd8)
